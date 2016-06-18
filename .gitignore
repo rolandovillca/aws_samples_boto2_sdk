@@ -87,3 +87,29 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#===============================================================================
+# My entries:
+#===============================================================================
+*.pyc
+.*.swp
+*.log
+*~
+boto.egg-info
+build/
+dist/
+MANIFEST
+.DS_Store
+.idea
+.tox
+.coverage
+*flymake.py
+venv
+venv-2.5
+env-2.5
+
+# Common virtualenv names
+VENV
+
+# IntelliJ / PyCharm IDE
+.idea/
